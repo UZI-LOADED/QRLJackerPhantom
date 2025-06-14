@@ -1,2 +1,3 @@
-# QRLJackerPhantom
-"QRLJacker Phantom Edition" — a professional, fully automated, attack-ready toolkit.
+# QRLJacker Phantom Edition
+
+This is an advanced educational toolkit for simulating QRLJacking attacks.

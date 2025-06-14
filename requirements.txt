@@ -1,0 +1,6 @@
+
+flask
+pyqt5
+requests
+pyngrok
+sqlite3

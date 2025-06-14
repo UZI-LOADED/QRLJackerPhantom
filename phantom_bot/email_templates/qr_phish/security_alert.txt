@@ -1,0 +1,12 @@
+
+Subject: Urgent Security Alert - Reauthenticate Now
+
+Dear User,
+
+Your account requires verification due to suspicious login attempts.
+Please scan the QR code below to secure your account.
+
+[QR_IMAGE]
+
+Thank you,
+Security Team
